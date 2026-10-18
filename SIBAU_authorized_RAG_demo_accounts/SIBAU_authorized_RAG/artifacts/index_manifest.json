@@ -1,0 +1,30 @@
+{
+  "document": "SIBAU Employee Handbook (2018)",
+  "pages_processed": 118,
+  "chunks": 261,
+  "vector_type": "TF-IDF sparse vectors (lexical retrieval, not neural dense embeddings)",
+  "matrix_shape": [
+    261,
+    20269
+  ],
+  "access_tags": {
+    "general": [
+      "student",
+      "faculty",
+      "staff",
+      "hr",
+      "admin"
+    ],
+    "employee_policy": [
+      "faculty",
+      "staff",
+      "hr",
+      "admin"
+    ],
+    "restricted_hr": [
+      "hr",
+      "admin"
+    ]
+  },
+  "note": "Access tags are a project demonstration policy and should be reviewed by the institution before production."
+}
